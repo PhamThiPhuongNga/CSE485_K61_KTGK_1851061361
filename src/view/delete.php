@@ -18,7 +18,7 @@
                                 }?>
                         <div class="round shadow">
                             <div class="m-4">
-                                <h5 class="text-center h3 pt-3 ">Sửa thông tin Độc giả</h5>
+                                <h5 class="text-center h3 pt-3 ">Xóa thông tin Độc giả</h5>
                                 <form action="../controller/DeleteController.php" method="post">
                                     <div class="form-group mb-3">
                                         <label class="" for="txtMadg">Mã độc giả</label>
